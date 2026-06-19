@@ -33,6 +33,8 @@ Three machine learning models were trained and evaluated for churn prediction:
 
 Model performance was evaluated using Accuracy, Precision, Recall, F1 Score, and ROC-AUC. Random Forest achieved the strongest overall balance based on Accuracy and F1 Score, while XGBoost achieved the highest Recall and ROC-AUC.
 
+Chatbot(streamlit app) was created to answer any project questions :https://telcocustomerchurn-umjvfkkrrphsuyzqjg5ymf.streamlit.app/
+
 ## Key Findings
 
 The analysis identified several important churn drivers across SQL analysis, visual exploration, and machine learning results.
@@ -59,7 +61,7 @@ Detailed documentation:
 https://mcgill-my.sharepoint.com/:w:/g/personal/meklit_gebregiorgis_mail_mcgill_ca/IQBTcD6KX0SAQqKfPHXk2PvwAQWVoisCuv8afpEGIjNTfqE?e=zG0eW2
 
 Streamlit app:
-Add deployed Streamlit link here once available.
+https://telcocustomerchurn-umjvfkkrrphsuyzqjg5ymf.streamlit.app/
 
 Power BI visualization:
 https://mcgill-my.sharepoint.com/:u:/g/personal/meklit_gebregiorgis_mail_mcgill_ca/IQCHvCRiG7R0Q4gX2PQVJZ8rAfYsHdlcFf2eZJ-_wo1uQZE?e=yrLEon
@@ -102,6 +104,7 @@ Project 1 Telco Customer Churn/
 ├── Customer Churn Prediction.docx
 ├── Telco Customer Churn Analysis.docx
 └── README.md
+
 ```
 
 ## Notes
