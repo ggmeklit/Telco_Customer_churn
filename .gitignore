@@ -1,0 +1,20 @@
+# Secrets
+.env
+**/.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases/cache
+*.db
+*.sqlite
+*.sqlite3
+.streamlit_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db

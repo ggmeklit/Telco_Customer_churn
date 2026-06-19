@@ -1,0 +1,4 @@
+contract_type,total_churned,total_customers,churn_rate_percentage
+Month-to-Month Contract,1655,3875,42.71
+One Year Contract,166,1473,11.27
+Two Year Contract,48,1695,2.83
